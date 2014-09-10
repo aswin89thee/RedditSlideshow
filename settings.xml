@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Would be better to define a DTD to define the elements -->
+
+<configuration>
+    <property name="maxPicLimit">200</property>
+    <property name="intervalInMillis">5000</property>
+</configuration>
